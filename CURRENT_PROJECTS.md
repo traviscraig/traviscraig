@@ -4,8 +4,7 @@ A look at what I'm building, experimenting with, and exploring in my spare time.
 
 This page is updated as projects progress, priorities change, and new ideas become interesting enough to pursue.
 
-← Back to Profile
-
+S
 🟢 Active Development
 
 Desktop IoT Widget
